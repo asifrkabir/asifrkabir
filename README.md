@@ -31,7 +31,7 @@
 
 ## :handshake: Let's Chat
 
-<div align="center" style="display: flex; justify-content: center; gap: 20px;">
+<p align="center">
   <!-- LinkedIn Card -->
   <a href="https://www.linkedin.com/in/asifrkabir" target="_blank" style="text-decoration: none;">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40" />
@@ -43,4 +43,4 @@
       <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Email" width="40" height="40" />
       <p style="margin: 10px 0 0; font-size: 14px; color: #d44638;">asifrkabir.work@gmail.com</p>
   </a>
-</div>
+</p>
