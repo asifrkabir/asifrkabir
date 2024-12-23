@@ -31,15 +31,9 @@
 
 ## :handshake: Let's Chat
 
-<p>
-  <!-- LinkedIn Badge -->
-  <a href="https://www.linkedin.com/in/asifrkabir" target="_blank">
+<p><a href="https://www.linkedin.com/in/asifrkabir" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a> 
-
-  <!-- Email Badge -->
-  <a href="mailto:asifrkabir.work@gmail.com" target="_blank">
+  </a> <a href="mailto:asifrkabir.work@gmail.com" target="_blank">
     <img alt="Email" src="https://img.shields.io/badge/email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
-
