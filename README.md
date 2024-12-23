@@ -6,5 +6,5 @@
 
 <br />
 <p align="center">
-    <img src="https://streak-stats.demolab.com?user=asifrkabir&theme=merko&hide_border=true&card_width=800&background=00000000&fire=0BAF22" alt="asifrkabir's GitHub Streak" />
+    <img src="https://streak-stats.demolab.com?user=asifrkabir&theme=merko&hide_border=true&card_width=800&background=00000000&fire=14AD66&ring=14AD66&sideNums=14AD66&sideLabels=34AD76" alt="asifrkabir's GitHub Streak" />
 </p>
