@@ -23,5 +23,5 @@
 ## :computer: Technologies I Work With
 
 <p align="center">
-    <img src="https://img.shields.io/badge/React?logo=react" />
+    <img alt="Static Badge" src="https://img.shields.io/badge/React?logo=react">
 </p>
