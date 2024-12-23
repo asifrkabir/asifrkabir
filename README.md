@@ -33,4 +33,4 @@
 
 <!-- [<p align="center"><img height="75" src="https://raw.githubusercontent.com/asifrkabir/asifrkabir/main/images/linkedin-icon.svg">](https://www.linkedin.com/in/asifrkabir/)[<img height="75" src="https://raw.githubusercontent.com/asifrkabir/asifrkabir/main/images/email-icon.svg">](mailto:asifrkabir.work@gmail.com)</p> -->
 
-<p align="center">[<img height="75" src="https://raw.githubusercontent.com/asifrkabir/asifrkabir/main/images/linkedin-icon.svg">](https://www.linkedin.com/in/asifrkabir/)[<img height="75" src="https://raw.githubusercontent.com/asifrkabir/asifrkabir/main/images/email-icon.svg"> </p>](mailto:asifrkabir.work@gmail.com)
+[<p align="center">][<img height="75" src="https://raw.githubusercontent.com/asifrkabir/asifrkabir/main/images/linkedin-icon.svg">](https://www.linkedin.com/in/asifrkabir/)[<img height="75" src="https://raw.githubusercontent.com/asifrkabir/asifrkabir/main/images/email-icon.svg"> </p>](mailto:asifrkabir.work@gmail.com)
