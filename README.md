@@ -15,5 +15,5 @@
 ## :computer: Technologies I Work With
 
 <p align="center">
-    [![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://www.linkedin.com/in/asifrkabir)
+    <img src="https://skillicons.dev/icons?i=js,html,css" alt="Technologies I Work With" />
 </p>
