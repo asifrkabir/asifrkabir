@@ -31,16 +31,4 @@
 
 ## :handshake: Let's Chat
 
-<div align="center" style="display: flex; justify-content: center; gap: 40px; align-items: center; flex-wrap: wrap;">
-  <!-- LinkedIn Card -->
-  <a href="https://www.linkedin.com/in/asifrkabir" target="_blank" style="text-decoration: none; text-align: center;">
-    <img height="75" src="https://raw.githubusercontent.com/asifrkabir/asifrkabir/main/images/linkedin-icon.svg" alt="LinkedIn" />
-    <p style="margin: 5px 0 0; font-size: 14px; color: #0a66c2;">@asifrkabir</p>
-  </a>
-
-  <!-- Email Card -->
-  <a href="mailto:asifrkabir.work@gmail.com" target="_blank" style="text-decoration: none; text-align: center;">
-    <img height="75" src="https://raw.githubusercontent.com/asifrkabir/asifrkabir/main/images/email-icon.svg" alt="Email" />
-    <p style="margin: 5px 0 0; font-size: 14px; color: #d44638;">asifrkabir.work@gmail.com</p>
-  </a>
-</div>
+[<p align="center"><img height="75" src="https://raw.githubusercontent.com/asifrkabir/asifrkabir/main/images/linkedin-icon.svg">](https://www.linkedin.com/in/asifrkabir/)[<img height="75" src="https://raw.githubusercontent.com/asifrkabir/asifrkabir/main/images/email-icon.svg">](mailto:asifrkabir.work@gmail.com)
