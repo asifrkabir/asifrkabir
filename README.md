@@ -33,6 +33,5 @@
 
 <!-- [<p align="center"><img height="75" src="https://raw.githubusercontent.com/asifrkabir/asifrkabir/main/images/linkedin-icon.svg">](https://www.linkedin.com/in/asifrkabir/)[<img height="75" src="https://raw.githubusercontent.com/asifrkabir/asifrkabir/main/images/email-icon.svg">](mailto:asifrkabir.work@gmail.com)</p> -->
 
-<p align="center">
-    [<img height="75" src="https://raw.githubusercontent.com/asifrkabir/asifrkabir/main/images/linkedin-icon.svg">](https://www.linkedin.com/in/asifrkabir/)[<img height="75" src="https://raw.githubusercontent.com/asifrkabir/asifrkabir/main/images/email-icon.svg">](mailto:asifrkabir.work@gmail.com)
+<p><a href="https://www.linkedin.com/in/asifrkabir" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
 </p>
