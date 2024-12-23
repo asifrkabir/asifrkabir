@@ -15,5 +15,5 @@
 ## :computer: Technologies I Work With
 
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=js,html,css" alt="Technologies I Work With" />
+    <img src="https://skillicons.dev/icons?i=java,spring,ts,nextjs,react,express,mongodb,mysql,postgres,html,css,js,nodejs,tailwind,prisma" alt="Technologies I Work With" />
 </p>
