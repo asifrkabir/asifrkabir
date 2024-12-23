@@ -36,11 +36,13 @@
   <a href="https://www.linkedin.com/in/asifrkabir" target="_blank">
     <img height="75" src="https://raw.githubusercontent.com/asifrkabir/asifrkabir/main/images/linkedin-icon.svg" alt="LinkedIn" />
   </a>
+  <br>
   <span style="font-size: 14px; color: #0a66c2;">@asifrkabir</span>
 
   <!-- Email Card -->
   <a href="mailto:asifrkabir.work@gmail.com" target="_blank">
     <img height="75" src="https://raw.githubusercontent.com/asifrkabir/asifrkabir/main/images/email-icon.svg" alt="Email" />
   </a>
+  <br>
   <span style="font-size: 14px; color: #d44638;">asifrkabir.work@gmail.com</span>
 </p>
