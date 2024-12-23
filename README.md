@@ -2,6 +2,11 @@
     <img src="https://raw.githubusercontent.com/asifrkabir/asifrkabir/main/images/cover-img-1.jpg" />
 </a>
 
+## Hello! :wave: 
+This is Asif Rezwan Kabir, a Software Engineer and Business Analyst based out of Dhaka, Bangladesh 🇧🇩
+
+<br />
+
 ## :calendar: Recent Activity
 
 <br />
@@ -15,10 +20,10 @@
 ## :computer: Technologies I Work With
 
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=java,spring,ts,nextjs,react,express" alt="Technologies I Work With" />
+    <img src="https://skillicons.dev/icons?i=java,spring,ts,nextjs,react,express,mongodb" alt="Technologies I Work With" />
 </p>
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,html,css,js,nodejs,tailwind,prisma" alt="Technologies I Work With" />
+    <img src="https://skillicons.dev/icons?i=mysql,postgres,html,css,js,nodejs,tailwind,prisma" alt="Technologies I Work With" />
 </p>
 
 <br />
