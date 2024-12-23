@@ -16,6 +16,8 @@
 
 <p align="center">
     <img src="https://skillicons.dev/icons?i=java,spring,ts,nextjs,react,express" alt="Technologies I Work With" />
+</p>
+<p align="center">
     <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,html,css,js,nodejs,tailwind,prisma" alt="Technologies I Work With" />
 </p>
 
