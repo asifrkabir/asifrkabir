@@ -31,10 +31,10 @@
 
 ## :handshake: Let's Chat
 
-<div align="center">
+<div align="center" style="display: flex; justify-content: center; gap: 20px;">
   <!-- LinkedIn Card -->
   <a href="https://www.linkedin.com/in/asifrkabir" target="_blank" style="text-decoration: none;">
-    <div style="display: inline-block; margin: 10px; padding: 15px; border: 1px solid #ddd; border-radius: 8px; width: 150px; text-align: center; box-shadow: 2px 2px 10px rgba(0,0,0,0.1);">
+    <div style="padding: 15px; border: 1px solid #ddd; border-radius: 8px; width: 150px; text-align: center; box-shadow: 2px 2px 10px rgba(0,0,0,0.1);">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40" />
       <p style="margin: 10px 0 0; font-size: 14px; color: #0a66c2;">@asifrkabir</p>
     </div>
@@ -42,8 +42,8 @@
 
   <!-- Email Card -->
   <a href="mailto:asifrkabir.work@gmail.com" style="text-decoration: none;">
-    <div style="display: inline-block; margin: 10px; padding: 15px; border: 1px solid #ddd; border-radius: 8px; width: 150px; text-align: center; box-shadow: 2px 2px 10px rgba(0,0,0,0.1);">
-      <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/mail-dot-ru.svg" alt="Email" width="40" height="40" />
+    <div style="padding: 15px; border: 1px solid #ddd; border-radius: 8px; width: 150px; text-align: center; box-shadow: 2px 2px 10px rgba(0,0,0,0.1);">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Email" width="40" height="40" />
       <p style="margin: 10px 0 0; font-size: 14px; color: #d44638;">asifrkabir.work@gmail.com</p>
     </div>
   </a>
