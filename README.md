@@ -4,7 +4,7 @@
 
 ## Hello! :wave:
 
-<p>This is Asif Rezwan Kabir, a Software Engineer and Business Analyst based out of Dhaka, Bangladesh <img src="https://raw.githubusercontent.com/asifrkabir/asifrkabir/main/images/bangladesh-flag-icon.svg" /></p>
+<p>This is Asif Rezwan Kabir, a Software Engineer and Business Analyst based out of Dhaka, Bangladesh <img src="https://raw.githubusercontent.com/asifrkabir/asifrkabir/main/images/bangladesh-flag-icon.svg" width="20" height="15" /></p>
 
 <br />
 
