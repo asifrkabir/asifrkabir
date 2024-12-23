@@ -29,6 +29,14 @@
 
 <br />
 
+## :raised_hands: About Me
+
+### 🔴 Working - At RedDot Digital Ltd., subsidiary of Robi Axiata Ltd.
+### 🔭 Exploring - Hardware-software integration for everyday solutions.
+### 💪 Trying - To bridge the gap between business needs and technology.
+
+<br />
+
 ## :handshake: Let's Chat
 
 <p>
